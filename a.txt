@@ -1,5 +1,1 @@
-<<<<<<< HEAD
- 2nd feature
-=======
- 3rd master
->>>>>>> master
+modify 1
